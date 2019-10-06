@@ -5,6 +5,7 @@
 		<title></title>
 	</head>
 	<body>
+	<h1>What it do babyyyyy.</h1>
         <p>You should consider investing in a
 			<?php
 			// This is a super simple script, NOT CodeIgniter-specific
